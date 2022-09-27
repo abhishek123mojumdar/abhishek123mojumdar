@@ -1,6 +1,5 @@
 - 👋 Hey, hello ! I am Abhishek Mojumdar 
 - 👀 I’m in love with JavaScript 
-- 🌱 I’m currently NodeJs and React
 - 💞️ I’m looking to collaborate on JavaScript and JS related frameworks
 - 📫 You can reach me on abhishek123mojumdar@gmail.com
 
